@@ -42,8 +42,3 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 ## Acknowledgments
 
 Feel free to contact me if you need help with any of the projects :)
-
-
-
-
-
